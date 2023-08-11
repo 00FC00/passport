@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcodeproj/xcuserdata
+xcuserdata/
+
+# SwiftPM
+.build
+.swiftpm
+
+# SPM Test Results
+TestResults/
+
+# IDE-specific
+.idea/
+.vscode/
+
+# Generated files
+Package.resolved
+
+# Swift Package Manager files
+.build/
+.checkouts/
+.pins/
+
+# Custom
